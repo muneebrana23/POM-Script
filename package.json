@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"cypress": "^9.4.1"
+		"cypress": "^13.0.0"
 	},
 	"cypress-cucumber-preprocessor": {
 		"nonGlobalStepDefinitions": true
